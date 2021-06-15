@@ -1,6 +1,8 @@
 #  BMI Calculator
 
-ABody Mass Index calculator that - based on the user’s weight and height - will calculate their body mass and provide health advice. 
+A Body Mass Index calculator that - based on the user’s weight and height - will calculate their body mass and provide health advice. 
+
+This app was built as part of 'iOS & Swift - The complete iOS App Development Bootcamp' by Dr Angela Yu
 
 # Required Skills
 
